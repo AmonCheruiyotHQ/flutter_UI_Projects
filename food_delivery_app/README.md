@@ -5,7 +5,8 @@ Welcome to the **Food Delivery App UI** project within the **Flutter UI Projects
 ## Preview
 
 Here's a sneak peek of what the Food Delivery App UI looks like:
-[Food App Preview](images/preview.mkv)
+
+https://github.com/AmonCheruiyotHQ/flutter_UI_Projects/assets/139218116/f9c19f83-c1e6-427f-8435-f633fe3974bb
 
 A new Flutter project.
 
@@ -36,6 +37,8 @@ To explore and run this Food Delivery App UI project on your local machine, foll
 ## Features
 
 This Food Delivery App UI project incorporates the following UI elements:
+
+![preview](https://github.com/AmonCheruiyotHQ/flutter_UI_Projects/assets/139218116/96750d14-4d6f-40e5-a3b9-21edab93f231)
 
 - Interactive restaurant and food item cards
 - Categorized menu items with images and prices
