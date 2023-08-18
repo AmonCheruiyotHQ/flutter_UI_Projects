@@ -6,7 +6,8 @@ Welcome to the **Food Delivery App UI** project within the **Flutter UI Projects
 
 Here's a sneak peek of what the Food Delivery App UI looks like:
 
-![Food Delivery App UI Preview](images/preview.mkv)
+
+A new Flutter project.
 
 ## Getting Started
 
