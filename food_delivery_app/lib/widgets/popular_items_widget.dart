@@ -33,11 +33,16 @@ class PopularItemsWidget extends StatelessWidget {
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Container(
-                        alignment: Alignment.center,
-                        child: Image.asset(
-                          "images/burger.png",
-                          height: 130,
+                      InkWell(
+                        onTap: () {
+                          Navigator.pushNamed(context, "itemPage");
+                        },
+                        child: Container(
+                          alignment: Alignment.center,
+                          child: Image.asset(
+                            "images/burger.png",
+                            height: 130,
+                          ),
                         ),
                       ),
                       const Text(

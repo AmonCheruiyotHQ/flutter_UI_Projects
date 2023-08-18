@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:food_delivery_app/pages/cart_page.dart';
+import 'package:food_delivery_app/pages/itempage.dart';
 import 'package:food_delivery_app/pages/my_home_page.dart';
 
 void main() {
@@ -19,6 +20,7 @@ class MyApp extends StatelessWidget {
       routes: {
          "/": (context) => const MyHomePage(),
          "cartPage": (context) => const CartPage(),
+         "itemPage": (context) => const ItemPage(),
       },
       debugShowCheckedModeBanner: false,
     );
